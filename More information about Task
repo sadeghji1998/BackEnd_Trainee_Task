@@ -1,0 +1,9 @@
+I have a static dataset containing information about
+Includes products. My task is to write LINQ queries to perform
+There are various operations on this data.
+Duties:
+➢ I wrote a LINQ query to retrieve all products from 1Category.
+➢ I wrote a LINQ query to find the products with the highest price.
+➢ I wrote a LINQ query to calculate the total price of all products.
+➢ I wrote a LINQ query to group products by category.
+➢ I wrote a LINQ query to find the average price of the products.
